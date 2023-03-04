@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Selamat datang</title>
+        <style>
+            body{
+                padding: 0px;
+                margin: 0px;
+                background-image: url(https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/05/25/apa-itu-cyber-security-mengapa-c-20210525060059.jpg);
+                background-position: relative;
+            }
+            .box1{
+                margin: 0px;
+                padding: 0px;
+                background-color: white;
+            }
+            .text1{
+                text-align: center;
+                font-size: 40px;
+                font-weight: bold;
+            }
+            .box2{
+                border-style: solid;
+                width: 60%;
+                height: 50%;
+                margin: 20%;
+                font-size: 40px;
+                border-radius: 40px;
+                background-color: white;
+                box-shadow: 20px 20px solid black;
+            }
+            h4{
+                text-align: center;
+            }
+            p{
+                text-align: center;
+            }
+            button{
+                font-size: 20px;
+            }
+            a{
+                color: black;
+                list-style: none;
+            }
+            .box3{
+                text-align: center;
+                font-size: 40px;
+                background-color: white;
+                margin: 0px;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box1">
+            <p class="text1">Selamat Datang Di Cyber Security</p>
+        </div>
+        <div class="box2">
+             <h4>Login Email</h4>
+             <p>
+             username : <input type="username"></type>
+             <br>
+             <p>
+             password : <input type="password"></type>
+             <br>
+             <p>
+             <button><a href="navbar.html">Log in</a></button>
+             <br>
+             </div>
+        <div class="box3">
+            harap login
+             </div>
+    </body>
+    </html>
